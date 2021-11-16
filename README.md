@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-
+*** Our latest training with the project and the Ecole Polytechnique on the open machine 
 -----------------
 
 |                  |`Default Config`  |`CUDA (+Python)`  |`CPU (+Python)`   |`OpenCL (+Python)`| `Debug`          | `Unity`          |
