@@ -5,7 +5,7 @@
 - 📫 How to reach me khlaid.oublal@polytechnique.edu
 
 
-Our latest training with the project at Ecole Polytechnique on the Open-Pose Machine Learning 
+Our latest training with the project at Ecole Polytechnique on the Open-Pose Deep Learning 
 -----------------
 
 |                  |`Default Config`  |`CUDA (+Python)`  |`CPU (+Python)`   |`OpenCL (+Python)`| `Debug`          | `Unity`          |
