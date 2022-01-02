@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on Normalizing Flow as a simple methods of GANs
 - 📫 How to reach me khlaid.oublal@polytechnique.edu
 
+New Project : Detect aircraf and drones GPS spoofing using satellite imagery  
+-----------------
+See more: (https://github.com/oublalkhalid/cyber-attack-GPS/)
 
 Our latest training with the project Open-Pose Deep Learning at Ecole Polytechnique
 -----------------
