@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing a Matser of Science in Computer Science at Ecole Polytechnique, Paris France
 - 💞️ I’m looking to collaborate on Normalizing Flow as a simple methods of GANs
 - 📫 How to reach me khlaid.oublal@polytechnique.edu
--
+- Current work: Satisfiability modulo theories with Pr. Sergio Mover, Explainable AI Pr.Said Ladjal and François Roueff
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 New Project : Detect aircraf and drones GPS spoofing using satellite imagery  
