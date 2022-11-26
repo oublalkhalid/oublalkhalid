@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Normalizing Flow as a simple methods of GANs
 - 📚🧐 [What I have read ?]((https://github.com/oublalkhalid/what--have-read-))
 - 📫 How to reach me khlaid.oublal@polytechnique.edu (`.org` [```graduated email```])
-- Current work: Satisfiability modulo theories with Pr. Sergio Mover, Explainable AI Pr.Said Ladjal and François Roueff
+- Current work:
+  - Satisfiability modulo theories with Pr. Sergio Mover, Explainable AI Pr.Said Ladjal and François Roueff
 
 
 New Project : Detect aircraf and drones GPS spoofing using satellite imagery  
