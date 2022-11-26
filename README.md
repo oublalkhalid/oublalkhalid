@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine and Deep Learning and their Satisfiability (Cyber, Explainable AI, Causality..) 
 - 🌱 I’m currently doing a Matser of Science in Computer Science at Ecole Polytechnique, Paris France
 - 💞️ I’m looking to collaborate on Normalizing Flow as a simple methods of GANs
-- 📫 How to reach me khlaid.oublal@polytechnique.edu (`.org` [graduated email])
+- 📫 How to reach me khlaid.oublal@polytechnique.edu (`.org` [```graduated email```])
 - Current work: Satisfiability modulo theories with Pr. Sergio Mover, Explainable AI Pr.Said Ladjal and François Roueff
 
 
