@@ -5,7 +5,7 @@
 - 📚🧐 [What I have read ?](https://github.com/oublalkhalid/what--have-read-)
 - 📫 How to reach me khlaid.oublal@polytechnique.edu (`.org` [```graduated email```])
 - Current work:
-  - Satisfiability modulo theories with Pr. Sergio Mover 
+  - Satisfiability modulo theories, Neural networks as a sub-symbolic approach with Pr. Sergio Mover 
   - Deep Q-Learning systems to avoid collisions 802.11bf electric scooter with Pr. [Keun-Woo Lim](https://scholar.google.co.kr/citations?user=CZ3DCn4AAAAJ&hl=ko)
   - Explainable AI Pr.Said Ladjal and François Roueff
 
