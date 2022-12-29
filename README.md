@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oublalkhalid
 - 👀 I’m interested in Machine and Deep Learning and their Satisfiability (Cyber, Explainable AI, Causality..) 
-- 🌱 I’m currently doing a Matser of Science in Computer Science at Ecole Polytechnique, Paris France
+- 🌱 I’m currently doing a M.S E. in Computer Science at Ecole Polytechnique, Paris France
 - 💞️ I’m looking to collaborate on Normalizing Flow as a simple methods of GANs
 - 📚🧐 [What I have read ?](https://github.com/oublalkhalid/What-I-have-read) 
 - 📫 How to reach me khlaid.oublal@polytechnique.edu (`.org` [```for graduate email```])
