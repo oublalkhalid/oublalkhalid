@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oublalkhalid
 - 👀 I’m interested in Machine and Deep Learning and their Satisfiability (Cyber, Explainable AI, Causality..) 
 - 🌱 I’m currently doing a MS.E in Computer Science at Ecole Polytechnique, Paris France
-- 💞️ I’m looking to collaborate on Normalizing Flow as a simple methods to enhace the resolution of VAEs and GANs
+- 💞️ I’m looking to collaborate on Normalizing flow as a simple screening method to enhance VAEs and GANs resolution
 - 📚🧐 [What I have read ?](https://github.com/oublalkhalid/What-I-have-read) 
 - 📫 How to reach me khlaid.oublal@polytechnique.edu (`.org` [```for graduate email```])
 - Current work:
