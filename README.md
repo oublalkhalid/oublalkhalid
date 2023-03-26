@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @oublalkhalid
 - 👀 I’m interested in Machine and Deep Learning and their Satisfiability (Cyber, Explainable AI, Causality..) 
-- 🌱 I’m currently doing a MS.E in Computer Science at Ecole Polytechnique, Paris France
+- 🥇 MS.E in Computer Science (summa cum laude) from Ecole Polytechnique Institut Polytechnique of Paris, France. Currently I follow a Ph.D. program at the same institute.
 - 💞️ I’m looking to collaborate on Normalizing flow as a simple screening method to enhance VAEs and GANs resolution
-- 📚🧐 [What I have read ?](https://github.com/oublalkhalid/What-I-have-read) 
+- 📚 [What I have read ?](https://github.com/oublalkhalid/What-I-have-read) 
 - 📫 How to reach me khlaid.oublal@polytechnique.edu (`.org` [```for graduate email```])
 - Current work:
   - Satisfiability modulo theories, Neural networks as a sub-symbolic approach with Pr. [Sergio Mover](https://www.sergiomover.eu/)
