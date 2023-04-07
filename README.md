@@ -7,5 +7,5 @@
 - Current work:
   - Satisfiability modulo theories, Neural networks as a sub-symbolic approach with Pr. [Sergio Mover](https://www.sergiomover.eu/)
   - Deep Q-Learning systems to avoid collisions 802.11bf electric scooter with Pr. [Keun-Woo Lim](https://scholar.google.co.kr/citations?user=CZ3DCn4AAAAJ&hl=ko)
-  - Explainable AI for sequential data with Pr. [François Roueff](#) and Pr. [Said Ladjal](#)
+  - ❤️ Explainable AI for sequential data with Pr. [François Roueff](https://scholar.google.fr/citations?user=zhJZ1iwAAAAJ&hl=fr) and Pr. [Said Ladjal](#)
   - OpenXAI for time series with Stanford University (ongoing...)
