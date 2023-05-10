@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Normalizing flow as a simple screening method to enhance VAEs and GANs resolution
 - 📚 [What I have read ?](https://github.com/oublalkhalid/What-I-have-read) 
 - 📫 How to reach me khlaid.oublal@polytechnique.edu (`.org` [```for graduate email```])
+- Training at Mathematical Institute, University of Oxford
+- Summer School Oxford, Machine Learning (OxML2023): Generative Models on NLP & Finance  
 - Current work:
   - Satisfiability modulo theories, Neural networks as a sub-symbolic approach with Pr. [Sergio Mover](https://www.sergiomover.eu/)
   - Deep Q-Learning systems to avoid collisions 802.11bf electric scooter with Pr. [Keun-Woo Lim](https://scholar.google.co.kr/citations?user=CZ3DCn4AAAAJ&hl=ko)
