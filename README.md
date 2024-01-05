@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in the Satisfiability of Machine and Deep Learning (Explainable AI, Causality..), I am passionated for mathematics and its applications.
 - 🥇 MS.E in Computer Science (summa cum laude) from Ecole Polytechnique - Institut Polytechnique of Paris, France. Currently, I follow a Ph.D. program at the same institute.
-- 💞️ I’m looking to collaborate on Normalizing flow, Generative Models for Times series | Explainability 
+- 💞️ Open to collaborate on Explainability for Generative Models 
 - 📚 [What I have read ?](https://github.com/oublalkhalid/What-I-have-read) 
 - 📫 How to reach me khlaid.oublal@polytechnique.edu (`.org` [```for graduate email```])
 - Training at Mathematical Institute, University of Oxford
