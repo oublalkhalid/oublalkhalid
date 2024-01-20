@@ -15,7 +15,7 @@
 
 News 📣: 
   - 🚀 Paper accepted at ICLR 2024: Disentanglement via Contrastive and Causality
-  - 
+    
 Feel free to discover my repositories.
 
 
