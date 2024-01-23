@@ -14,7 +14,7 @@
   - OpenXAI for time series with Stanford University (ongoing...)
 
 News 📣: 
-  - 🚀 Paper accepted at ICLR 2024: Disentanglement via Contrastive and Causality
+  - [January 2024]🚀 Paper accepted at ICLR 2024: Disentanglement via Contrastive and Causality
     
 Feel free to discover my repositories.
 
