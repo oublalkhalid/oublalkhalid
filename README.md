@@ -12,6 +12,8 @@
   - Deep Q-Learning systems to avoid collisions 802.11bf electric scooter with Pr. [Keun-Woo Lim](https://scholar.google.co.kr/citations?user=CZ3DCn4AAAAJ&hl=ko)
   - ❤️ Explainable AI for sequential data with Pr. [François Roueff](https://scholar.google.fr/citations?user=zhJZ1iwAAAAJ&hl=fr) and Pr. [Said Ladjal](#)
   - OpenXAI for time series with Stanford University (ongoing...)
+ 
+- Collaborate to @huggingface
 
 News 📣: 
   - [January 2024]🚀 Paper accepted at ICLR 2024: Disentanglement via Contrastive and Causality
