@@ -16,7 +16,7 @@
 - Collaborate to @huggingface
 
 News 📣: 
-  - [January 2024]🚀 Paper accepted at ICLR 2024: Disentanglement via Contrastive and Causality
+  - [January 2024]🚀 Paper accepted at ICLR 2024: Disentangling Time Series Representations via Contrastive Independence-of-Support on l-Variational Inference
     
 Feel free to discover my repositories.
 
