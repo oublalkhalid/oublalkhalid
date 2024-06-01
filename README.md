@@ -17,8 +17,8 @@
 
 News 📣: 
   - [January 2024]🚀 Paper accepted at ICLR 2024: Disentangling Time Series Representations via Contrastive Independence-of-Support on l-Variational Inference
-  - [September 2024] Paper accepted at NeurIPS 2024: DISCOV
-  - [March 2024] Paper accepter at ICML 2024: Temporal Attention Bottleneck is Informative?
+  - [September 2023] Paper accepted at NeurIPS 2024: DISCOV
+  - [March 2023] Paper accepter at ICML 2024: Temporal Attention Bottleneck is Informative?
     
 Feel free to discover my repositories.
 
