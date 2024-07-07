@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">, I'm Khalid Oublal</h1>
 
-- 👀 I’m interested in the Satisfiability of Machine and Deep Learning (Explainable AI, Causality..), I am passionated for mathematics and its applications.
+- 👀 I’m interested in the Satisfiability of Machine and Deep Learning (Explainable AI, Causality..), I am passionated for mathematics and its applications in the domains of energy, and sustainability.
 - 🥇 MS.E in Computer Science **(summa cum laude)** from Ecole Polytechnique - Institut Polytechnique of Paris, France. Currently, I follow a Ph.D. program at the same institute.
 - 💞️ Open to collaborate on Explainability for Generative Models 
 - 📚 [What I have read ?](https://github.com/oublalkhalid/What-I-have-read) 
