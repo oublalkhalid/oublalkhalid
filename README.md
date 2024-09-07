@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">, I'm Khalid Oublal</h1>
+<h1 align="left">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Khalid Oublal</h1>
 
 - 👀 I’m interested in the Satisfiability of Machine and Deep Learning (Explainable AI, Causality..), I am passionated for mathematics and its applications like energy domaine, sustainability, ...
 - 🥇 MS.E in Computer Science **(summa cum laude)** from Ecole Polytechnique - Institut Polytechnique of Paris, France. Currently, I follow a Ph.D. program at the same institute.
