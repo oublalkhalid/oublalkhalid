@@ -4,7 +4,7 @@
 - 🥇 MS.E in Computer Science **(summa cum laude)** from Ecole Polytechnique - Institut Polytechnique of Paris, France. Currently, I follow a Ph.D. program at the same institute.
 - 💞️ Open to collaborate on Explainability for Generative Models 
 - 📚 [What I have read ?](https://github.com/oublalkhalid/What-I-have-read) 
-- 📫 How to reach me khlaid.oublal@polytechnique.edu (`.org` [```for graduate email```])
+- 📫 How to reach me khlaid.oublal@polytechnique.edu (`.org` [```for graduate email```]) | or khlaid.oublal@ip-paris.fr
 - Training at Mathematical Institute, University of Oxford
 - Summer School Oxford, Machine Learning (OxML2023): Generative Models on NLP & Finance  
 - Current work:
@@ -19,8 +19,6 @@ News 📣:
   - [January 2024]🚀 Paper accepted at ICLR 2024: Disentangling Time Series Representations via Contrastive Independence-of-Support on l-Variational Inference
   - [September 2023] Paper accepted at NeurIPS 2023: DISCOV
   - [March 2023] Paper accepter at ICML 2023: Temporal Attention Bottleneck is Informative?
-    
-Feel free to discover my repositories.
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
