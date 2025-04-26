@@ -16,6 +16,7 @@
 - I collaborate to @huggingface Time Series Large Models 
 
 News 📣: 
+  - Working on Forecasting of weather data and solving inverse problems using Generative Models
   - [January 2024]🚀 Paper accepted at ICLR 2024: Disentangling Time Series Representations via Contrastive Independence-of-Support on l-Variational Inference
   - [September 2023] Paper accepted at NeurIPS 2023: DISCOV
   - [March 2023] Paper accepter at ICML 2023: Temporal Attention Bottleneck is Informative?
