@@ -13,7 +13,7 @@
   - Explainable Models for sequential data with Pr. [François Roueff](https://scholar.google.fr/citations?user=zhJZ1iwAAAAJ&hl=fr) and Pr. [Said Ladjal](#). Follow-up by Pr. [Cristian Jutten](https://scholar.google.com/citations?user=iO3qCToAAAAJ&hl=fr).
   - OpenXAI for time series with Stanford University  (ongoing...)
  
-- I collaborate to @huggingface Time Series Large Models 
+- I collaborate to @huggingface Time Series Transformer 
 
 News 📣: 
   - Working on Forecasting of weather data and solving inverse problems using Generative Models
