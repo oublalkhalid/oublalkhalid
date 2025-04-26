@@ -1,12 +1,12 @@
 ### Hi! I'm Khalid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 👀 I’m interested in the Satisfiability of Machine and Deep Learning (Explainable AI, Causality..), I am passionated for mathematics and its applications like energy domaine, sustainability, ...
+- 👀 I’m interested in the Satisfiability of Machine and Deep Learning for Time Series (Explainable AI, Causality..), I am passionated for mathematics and its applications like weather domaine, sustainability, ...
 - 🥇 MS.E in Computer Science **(summa cum laude)** from Ecole Polytechnique - Institut Polytechnique of Paris, France. Currently, I follow a Ph.D. program at the same institute.
 - 💞️ Open to collaborate on Explainability for Generative Models 
 - 📚 [What I have read ?](https://github.com/oublalkhalid/What-I-have-read) 
 - 📫 How to reach me khlaid.oublal@polytechnique.edu (`.org` [```for graduate email```]) | or khlaid.oublal@ip-paris.fr
 - Training at Mathematical Institute, University of Oxford
-- Summer School Oxford, Machine Learning (OxML2023): Generative Models on NLP & Finance  
+- Summer School Oxford, Machine Learning (OxML2023): Generative Models
 - Current work:
   - Satisfiability modulo theories, Neural networks as a sub-symbolic approach with Pr. [Sergio Mover](https://www.sergiomover.eu/)
   - Deep Q-Learning systems to avoid collisions 802.11bf electric scooter with Pr. [Keun-Woo Lim](https://scholar.google.co.kr/citations?user=CZ3DCn4AAAAJ&hl=ko)
