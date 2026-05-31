@@ -1,6 +1,6 @@
 ### Hi! I'm Khalid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 👀 I’m interested in the Satisfiability of Machine and Deep Learning for Time Series (Explainable AI, Causality..), I am passionated for mathematics and its applications like weather domaine, sustainability, ...
+- 👀 I am interested in representation learning, causality, and contextual bandits, with a focus on the theoretical foundations of reliable and interpretable deep learning with large models. My research is motivated by fundamental questions about generalization, robustness, and scientific understanding, with applications to weather forecasting, sustainability, and Earth system modeling. My thesis, “From Signal to Structure,” develops this direction through identifiability theory, causality, invariance, and equivariance, studying when meaningful representations can be theoretically recovered from observational data and used for decision-making under uncertainty
 - 🥇 MS.E in Computer Science **(summa cum laude)** from Ecole Polytechnique - Institut Polytechnique of Paris, France. Currently, I follow a Ph.D. program at the same institute.
 - 💞️ Open to collaborate on Explainability for Generative Models 
 - 📚 [What I have read ?](https://github.com/oublalkhalid/What-I-have-read) 
